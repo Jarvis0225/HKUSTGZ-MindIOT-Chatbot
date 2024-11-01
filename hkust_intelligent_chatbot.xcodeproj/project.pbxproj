@@ -1,0 +1,557 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		EC73484F2CD4CF8300F9E7B0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EC7348362CD4CF8200F9E7B0 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EC73483D2CD4CF8200F9E7B0;
+			remoteInfo = hkust_intelligent_chatbot;
+		};
+		EC7348592CD4CF8300F9E7B0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EC7348362CD4CF8200F9E7B0 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EC73483D2CD4CF8200F9E7B0;
+			remoteInfo = hkust_intelligent_chatbot;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		EC73483E2CD4CF8200F9E7B0 /* hkust_intelligent_chatbot.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = hkust_intelligent_chatbot.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EC73484E2CD4CF8300F9E7B0 /* hkust_intelligent_chatbotTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = hkust_intelligent_chatbotTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		EC7348582CD4CF8300F9E7B0 /* hkust_intelligent_chatbotUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = hkust_intelligent_chatbotUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		EC7348402CD4CF8200F9E7B0 /* hkust_intelligent_chatbot */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = hkust_intelligent_chatbot;
+			sourceTree = "<group>";
+		};
+		EC7348512CD4CF8300F9E7B0 /* hkust_intelligent_chatbotTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = hkust_intelligent_chatbotTests;
+			sourceTree = "<group>";
+		};
+		EC73485B2CD4CF8300F9E7B0 /* hkust_intelligent_chatbotUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = hkust_intelligent_chatbotUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		EC73483B2CD4CF8200F9E7B0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EC73484B2CD4CF8300F9E7B0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EC7348552CD4CF8300F9E7B0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		EC7348352CD4CF8200F9E7B0 = {
+			isa = PBXGroup;
+			children = (
+				EC7348402CD4CF8200F9E7B0 /* hkust_intelligent_chatbot */,
+				EC7348512CD4CF8300F9E7B0 /* hkust_intelligent_chatbotTests */,
+				EC73485B2CD4CF8300F9E7B0 /* hkust_intelligent_chatbotUITests */,
+				EC73483F2CD4CF8200F9E7B0 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		EC73483F2CD4CF8200F9E7B0 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				EC73483E2CD4CF8200F9E7B0 /* hkust_intelligent_chatbot.app */,
+				EC73484E2CD4CF8300F9E7B0 /* hkust_intelligent_chatbotTests.xctest */,
+				EC7348582CD4CF8300F9E7B0 /* hkust_intelligent_chatbotUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		EC73483D2CD4CF8200F9E7B0 /* hkust_intelligent_chatbot */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EC7348622CD4CF8300F9E7B0 /* Build configuration list for PBXNativeTarget "hkust_intelligent_chatbot" */;
+			buildPhases = (
+				EC73483A2CD4CF8200F9E7B0 /* Sources */,
+				EC73483B2CD4CF8200F9E7B0 /* Frameworks */,
+				EC73483C2CD4CF8200F9E7B0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				EC7348402CD4CF8200F9E7B0 /* hkust_intelligent_chatbot */,
+			);
+			name = hkust_intelligent_chatbot;
+			packageProductDependencies = (
+			);
+			productName = hkust_intelligent_chatbot;
+			productReference = EC73483E2CD4CF8200F9E7B0 /* hkust_intelligent_chatbot.app */;
+			productType = "com.apple.product-type.application";
+		};
+		EC73484D2CD4CF8300F9E7B0 /* hkust_intelligent_chatbotTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EC7348652CD4CF8300F9E7B0 /* Build configuration list for PBXNativeTarget "hkust_intelligent_chatbotTests" */;
+			buildPhases = (
+				EC73484A2CD4CF8300F9E7B0 /* Sources */,
+				EC73484B2CD4CF8300F9E7B0 /* Frameworks */,
+				EC73484C2CD4CF8300F9E7B0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				EC7348502CD4CF8300F9E7B0 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				EC7348512CD4CF8300F9E7B0 /* hkust_intelligent_chatbotTests */,
+			);
+			name = hkust_intelligent_chatbotTests;
+			packageProductDependencies = (
+			);
+			productName = hkust_intelligent_chatbotTests;
+			productReference = EC73484E2CD4CF8300F9E7B0 /* hkust_intelligent_chatbotTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		EC7348572CD4CF8300F9E7B0 /* hkust_intelligent_chatbotUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EC7348682CD4CF8300F9E7B0 /* Build configuration list for PBXNativeTarget "hkust_intelligent_chatbotUITests" */;
+			buildPhases = (
+				EC7348542CD4CF8300F9E7B0 /* Sources */,
+				EC7348552CD4CF8300F9E7B0 /* Frameworks */,
+				EC7348562CD4CF8300F9E7B0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				EC73485A2CD4CF8300F9E7B0 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				EC73485B2CD4CF8300F9E7B0 /* hkust_intelligent_chatbotUITests */,
+			);
+			name = hkust_intelligent_chatbotUITests;
+			packageProductDependencies = (
+			);
+			productName = hkust_intelligent_chatbotUITests;
+			productReference = EC7348582CD4CF8300F9E7B0 /* hkust_intelligent_chatbotUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		EC7348362CD4CF8200F9E7B0 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1610;
+				LastUpgradeCheck = 1610;
+				TargetAttributes = {
+					EC73483D2CD4CF8200F9E7B0 = {
+						CreatedOnToolsVersion = 16.1;
+					};
+					EC73484D2CD4CF8300F9E7B0 = {
+						CreatedOnToolsVersion = 16.1;
+						TestTargetID = EC73483D2CD4CF8200F9E7B0;
+					};
+					EC7348572CD4CF8300F9E7B0 = {
+						CreatedOnToolsVersion = 16.1;
+						TestTargetID = EC73483D2CD4CF8200F9E7B0;
+					};
+				};
+			};
+			buildConfigurationList = EC7348392CD4CF8200F9E7B0 /* Build configuration list for PBXProject "hkust_intelligent_chatbot" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = EC7348352CD4CF8200F9E7B0;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = EC73483F2CD4CF8200F9E7B0 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				EC73483D2CD4CF8200F9E7B0 /* hkust_intelligent_chatbot */,
+				EC73484D2CD4CF8300F9E7B0 /* hkust_intelligent_chatbotTests */,
+				EC7348572CD4CF8300F9E7B0 /* hkust_intelligent_chatbotUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		EC73483C2CD4CF8200F9E7B0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EC73484C2CD4CF8300F9E7B0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EC7348562CD4CF8300F9E7B0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		EC73483A2CD4CF8200F9E7B0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EC73484A2CD4CF8300F9E7B0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EC7348542CD4CF8300F9E7B0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		EC7348502CD4CF8300F9E7B0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = EC73483D2CD4CF8200F9E7B0 /* hkust_intelligent_chatbot */;
+			targetProxy = EC73484F2CD4CF8300F9E7B0 /* PBXContainerItemProxy */;
+		};
+		EC73485A2CD4CF8300F9E7B0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = EC73483D2CD4CF8200F9E7B0 /* hkust_intelligent_chatbot */;
+			targetProxy = EC7348592CD4CF8300F9E7B0 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		EC7348602CD4CF8300F9E7B0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		EC7348612CD4CF8300F9E7B0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		EC7348632CD4CF8300F9E7B0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"hkust_intelligent_chatbot/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "-8VF9678MK.hkust-intelligent-chatbot";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		EC7348642CD4CF8300F9E7B0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"hkust_intelligent_chatbot/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "-8VF9678MK.hkust-intelligent-chatbot";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		EC7348662CD4CF8300F9E7B0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "-8VF9678MK.hkust-intelligent-chatbotTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/hkust_intelligent_chatbot.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/hkust_intelligent_chatbot";
+			};
+			name = Debug;
+		};
+		EC7348672CD4CF8300F9E7B0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "-8VF9678MK.hkust-intelligent-chatbotTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/hkust_intelligent_chatbot.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/hkust_intelligent_chatbot";
+			};
+			name = Release;
+		};
+		EC7348692CD4CF8300F9E7B0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "-8VF9678MK.hkust-intelligent-chatbotUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = hkust_intelligent_chatbot;
+			};
+			name = Debug;
+		};
+		EC73486A2CD4CF8300F9E7B0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "-8VF9678MK.hkust-intelligent-chatbotUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = hkust_intelligent_chatbot;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		EC7348392CD4CF8200F9E7B0 /* Build configuration list for PBXProject "hkust_intelligent_chatbot" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EC7348602CD4CF8300F9E7B0 /* Debug */,
+				EC7348612CD4CF8300F9E7B0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EC7348622CD4CF8300F9E7B0 /* Build configuration list for PBXNativeTarget "hkust_intelligent_chatbot" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EC7348632CD4CF8300F9E7B0 /* Debug */,
+				EC7348642CD4CF8300F9E7B0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EC7348652CD4CF8300F9E7B0 /* Build configuration list for PBXNativeTarget "hkust_intelligent_chatbotTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EC7348662CD4CF8300F9E7B0 /* Debug */,
+				EC7348672CD4CF8300F9E7B0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EC7348682CD4CF8300F9E7B0 /* Build configuration list for PBXNativeTarget "hkust_intelligent_chatbotUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EC7348692CD4CF8300F9E7B0 /* Debug */,
+				EC73486A2CD4CF8300F9E7B0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = EC7348362CD4CF8200F9E7B0 /* Project object */;
+}
