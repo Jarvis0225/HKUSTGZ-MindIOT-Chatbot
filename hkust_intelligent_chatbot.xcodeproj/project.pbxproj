@@ -393,11 +393,16 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = hkust_intelligent_chatbot/hkust_intelligent_chatbot.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"hkust_intelligent_chatbot/Preview Content\"";
+				DEVELOPMENT_TEAM = 88VF9678MK;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "hkust-intelligent-chatbot-Info.plist";
+				INFOPLIST_KEY_NSHealthShareUsageDescription = "应用需要访问您的健康数据以获取心率信息。";
+				INFOPLIST_KEY_NSHealthUpdateUsageDescription = "应用需要更新您的健康数据以记录心率信息。";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -408,7 +413,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "-8VF9678MK.hkust-intelligent-chatbot";
+				PRODUCT_BUNDLE_IDENTIFIER = "hkust-intelligent-chatbot";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -421,11 +426,16 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = hkust_intelligent_chatbot/hkust_intelligent_chatbot.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"hkust_intelligent_chatbot/Preview Content\"";
+				DEVELOPMENT_TEAM = 88VF9678MK;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "hkust-intelligent-chatbot-Info.plist";
+				INFOPLIST_KEY_NSHealthShareUsageDescription = "应用需要访问您的健康数据以获取心率信息。";
+				INFOPLIST_KEY_NSHealthUpdateUsageDescription = "应用需要更新您的健康数据以记录心率信息。";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -436,7 +446,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "-8VF9678MK.hkust-intelligent-chatbot";
+				PRODUCT_BUNDLE_IDENTIFIER = "hkust-intelligent-chatbot";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;

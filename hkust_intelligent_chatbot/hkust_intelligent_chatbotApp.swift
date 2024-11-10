@@ -9,6 +9,7 @@ import SwiftUI
 
 @main
 struct hkust_intelligent_chatbotApp: App {
+    @UIApplicationDelegateAdaptor(AppDelegate.self) var appDelegate
     var body: some Scene {
         WindowGroup {
             ContentView()
