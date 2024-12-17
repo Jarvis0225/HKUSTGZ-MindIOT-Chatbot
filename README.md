@@ -227,4 +227,4 @@ API_BASE_URL = your_api_url_here
 
 如有问题或建议，请通过以下方式联系我们：
 - 项目 Issues
-- 电子邮件：[jli801@connect.hkust-gz.edu.cn]
+- 电子邮件：[jli801@connect.hkust-gz.edu.cn], [zhu_yanying@foxmail.com]
