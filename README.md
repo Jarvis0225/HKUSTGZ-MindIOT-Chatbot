@@ -126,8 +126,8 @@ App
 
 ### 1. 获取项目
 ```bash
-git clone https://github.com/yourusername/hkust-intelligent-chatbot.git
-cd hkust-intelligent-chatbot
+git clone https://github.com/Jarvis0225/HKUSTGZ-MindIOT-Chatbot.git
+cd HKUSTGZ-MindIOT-Chatbot
 ```
 
 ### 2. Xcode 配置
