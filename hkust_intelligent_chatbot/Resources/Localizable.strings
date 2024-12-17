@@ -1,0 +1,31 @@
+// Common
+"Chat" = "Chat";
+"Health" = "Health";
+"Stats" = "Stats";
+"Settings" = "Settings";
+
+// Health Data
+"Heart Rate" = "Heart Rate";
+"Heart Rate Variability" = "Heart Rate Variability";
+"BPM" = "BPM";
+"ms" = "ms";
+"Average" = "Average";
+"Maximum" = "Maximum";
+"Minimum" = "Minimum";
+"Updating..." = "Updating...";
+"Refresh Data" = "Refresh Data";
+
+// Settings
+"Auto Refresh" = "Auto Refresh";
+"Background Updates" = "Background Updates";
+"Version" = "Version";
+"Researchers" = "Researchers";
+"Terms of Service" = "Terms of Service";
+"Privacy Policy" = "Privacy Policy";
+"Research Disclaimer" = "Research Disclaimer";
+
+// Health Status
+"Excellent" = "Excellent";
+"Attention Needed" = "Attention Needed";
+"Monitor Heart Rate" = "Monitor Heart Rate";
+"Medical Attention" = "Medical Attention"; 

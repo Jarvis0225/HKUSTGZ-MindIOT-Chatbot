@@ -1,0 +1,5 @@
+# API Configuration
+API_BASE_URL = your_api_base_url_here
+API_VERSION = v1
+
+# Add any other configuration variables here
